@@ -1,6 +1,6 @@
 - 👋 @Michael4d45
 - 👀 Interested in Web technology and deveopment
-- 🌱 Currently learning Go and TypeScript
+- 🌱 Currently learning Go and Rust
 - 📫 michael4d45@gmail.com
 
 <!---
